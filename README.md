@@ -4,6 +4,7 @@ The dashboard is designed to help business users track key KPIs, identify top pr
 
  Business Objectives :-
 1] Monitor overall revenue and order performance
+
 2] Analyze Average Order Value (AOV) and cancellation impact
 3] Identify top-performing products and categories
 4] Compare state-wise revenue contribution
