@@ -14,6 +14,7 @@ The dashboard is designed to help business users track key KPIs, identify top pr
 
 5] Track monthly revenue trends
 
+
  Key KPIs Displayed :-
  
 1] Total Revenue: ₹1.25 bn
@@ -25,6 +26,7 @@ The dashboard is designed to help business users track key KPIs, identify top pr
 4] Cancellation Rate: 29.72%
 
 5] Total Orders: 15.69K
+
 
  Dashboard Insights :-
  
@@ -43,6 +45,7 @@ Revenue shows fluctuations with a noticeable drop in November, highlighting seas
 Cancellation Impact:
 High cancellation rate significantly affects lost revenue, indicating scope for process improvement.
 
+
  Tools & Technologies Used :-
  
 1] Power BI Desktop – Data visualization & dashboard design
@@ -52,6 +55,7 @@ High cancellation rate significantly affects lost revenue, indicating scope for 
 3] Power Query – Data cleaning and transformation
 
 4]Excel / CSV – Data source
+
 
  Dashboard Features :-
  
