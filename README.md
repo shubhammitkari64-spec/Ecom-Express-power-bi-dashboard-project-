@@ -2,17 +2,13 @@
 This Power BI dashboard analyzes Ecom Express e-commerce sales and delivery data to provide insights into revenue performance, order behavior, cancellations, and regional trends.
 The dashboard is designed to help business users track key KPIs, identify top products and categories, and understand monthly revenue trends for better decision-making.
 
-1] Business Objectives :-
+<pre>1] Business Objectives :-
  
 Monitor overall revenue and order performance
-
 Analyze Average Order Value (AOV) and cancellation impact
-
 Identify top-performing products and categories
-
 Compare state-wise revenue contribution
-
-Track monthly revenue trends
+Track monthly revenue trends</pre>
 
 
 2] Key KPIs Displayed :-
@@ -45,7 +41,7 @@ Revenue shows fluctuations with a noticeable drop in November, highlighting seas
 Cancellation Impact:
 High cancellation rate significantly affects lost revenue, indicating scope for process improvement.
 
-![image alt](Screenshot 2025-12-24 210803.png)
+
 
 
 4] Tools & Technologies Used :-
