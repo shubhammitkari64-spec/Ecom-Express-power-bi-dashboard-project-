@@ -45,6 +45,7 @@ Revenue shows fluctuations with a noticeable drop in November, highlighting seas
 Cancellation Impact:
 High cancellation rate significantly affects lost revenue, indicating scope for process improvement.
 
+<img src=""C:\Users\Server\Pictures\Screenshots\Screenshot 2025-12-24 210803.png"" alt="Alternative text" width="500" height="auto">
 
 4] Tools & Technologies Used :-
  
